@@ -1,7 +1,7 @@
 
 # Responsive Website
 
-This website demonstrates the implementation of responsive design techniques to ensure optimal viewing and interaction experiences across a wide range of devices, including desktops, laptops, tablets, and mobile phones. It utilizes HTML, CSS, and JavaScript to create a visually appealing and user-friendly interface.
+This website demonstrates the implementation of responsive design techniques to ensure optimal viewing and interaction experiences across a wide range of devices, including desktops, laptops, tablets, and mobile phones. It utilizes HTML, CSS, and JavaScript ES6 to create a visually appealing and user-friendly interface.
 
 
 
